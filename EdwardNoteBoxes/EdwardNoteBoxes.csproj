@@ -16,6 +16,7 @@
 		<OutputType>Exe</OutputType>
 		<RootNamespace>EdwardNoteBoxes</RootNamespace>
 		<UseMaui>true</UseMaui>
+		<AndroidPackageFormat>aab</AndroidPackageFormat>
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
